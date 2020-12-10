@@ -1,6 +1,7 @@
 
 ![star](https://img.shields.io/github/stars/JoeyBling/webkettle "star")
 ![fork](https://img.shields.io/github/forks/JoeyBling/webkettle "fork")
+他这个QQ群就是一个死群，各为兄弟别浪费钱去加了。可以直接找原作者“畅聊”50块30分钟，笑死，快比上找鸡了啊。
 [![webkettle交流群](https://img.shields.io/badge/QQ群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
 [![LICENSE](https://img.shields.io/github/license/JoeyBling/webkettle "LICENSE")](./LICENSE "LICENSE")
 
